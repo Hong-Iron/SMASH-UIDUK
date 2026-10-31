@@ -1,0 +1,93 @@
+{
+  "code": "UIDUK",
+  "title": "SMASH UIDUK",
+  "school": "위덕대",
+  "fullName": "위덕대학교",
+  "campusName": "위덕대학교",
+  "tagline": "위덕대를 부셔 (시험기간 스트레스 해소)",
+  "description": "위덕대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 위덕대학교 3D 화면과 SMASH UIDUK 제목",
+  "url": "https://hong-iron.github.io/SMASH-UIDUK/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 481495523
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.0082842,
+        129.2827564
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 남쪽 주차장 옆 숲속 자리로, 항공사진을 크게 키워 봐도 나무만 있고 지붕이 보이지 않습니다."
+    }
+  ],
+  "look": {
+    "위덕관": {
+      "style": "stone",
+      "wall": "#d9cfc6",
+      "glass": "#3f5a60",
+      "frame": "#8b8378"
+    },
+    "갈마관": {
+      "style": "brick",
+      "wall": "#6a4038",
+      "glass": "#2e3540",
+      "frame": "#7a7470"
+    },
+    "지혜관": {
+      "style": "brick",
+      "wall": "#5e4840",
+      "glass": "#414d54",
+      "frame": "#847868"
+    },
+    "공덕관": {
+      "style": "glass",
+      "wall": "#7e8890",
+      "glass": "#3e5860",
+      "frame": "#5a6c6e"
+    },
+    "회당관": {
+      "style": "stone",
+      "wall": "#c5bfbc",
+      "glass": "#3e5654",
+      "frame": "#9a9591"
+    },
+    "금강관": {
+      "style": "stone",
+      "wall": "#c2beb9",
+      "glass": "#405350",
+      "frame": "#928177"
+    },
+    "자비관": {
+      "style": "brick",
+      "wall": "#5a3e38",
+      "glass": "#2f3436",
+      "frame": "#867a6c",
+      "roof": "#7a7672",
+      "hip": true
+    },
+    "정진관": {
+      "style": "brick",
+      "wall": "#a8735c",
+      "glass": "#27455e",
+      "frame": "#8a9092"
+    },
+    "성취관": {
+      "style": "brick",
+      "wall": "#5a403a",
+      "glass": "#2b2a2c",
+      "frame": "#8c8c84"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
