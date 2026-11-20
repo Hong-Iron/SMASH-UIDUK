@@ -1,0 +1,34 @@
+{
+ "region": "경북 경주시 강동면",
+ "nameEn": "Uiduk University",
+ "added": "2026-11-01T02:27",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "POSTECH",
+   "campus": "포항공과대학교",
+   "km": 3.3
+  },
+  {
+   "code": "SUNLIN",
+   "campus": "선린대학교",
+   "km": 9.8
+  },
+  {
+   "code": "HANDONG",
+   "campus": "한동대학교",
+   "km": 13.9
+  },
+  {
+   "code": "POHANG",
+   "campus": "포항대학교",
+   "km": 14.1
+  },
+  {
+   "code": "DGU-WISE",
+   "campus": "동국대학교 WISE캠퍼스",
+   "km": 18.6
+  }
+ ]
+}
